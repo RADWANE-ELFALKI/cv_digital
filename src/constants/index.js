@@ -228,7 +228,7 @@ const gallery = [
     },
     {
         id: 4,
-        img: "/images/gal04.png",
+        img: "/images/gal04.jpg",
     },
 ];
 
